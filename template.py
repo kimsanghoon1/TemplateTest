@@ -1,4 +1,3 @@
-
 forEach: BoundedContext
 fileName: {{name}}World.py
 path: {{boundedContext}}/{{{options.packagePath}}}
