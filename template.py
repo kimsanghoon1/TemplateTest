@@ -1,6 +1,6 @@
 forEach: BoundedContext
 fileName: {{name}}World.py
-path: {{boundedContext}}/{{{options.packagePath}}}
+path: {{name}}
 ---
 print("BoundedContext: {{name}}");
 {{#aggregates}}
