@@ -1,6 +1,6 @@
 forEach: BoundedContext
 fileName: {{name}}World.py
-path: {{boundedContext}}
+path: {{name}}
 ---
 print("BoundedContext: {{name}}");
 {{#aggregates}}
