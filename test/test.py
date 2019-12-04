@@ -1,5 +1,5 @@
 forEach: BoundedContext
-fileName: {{name}}World.py
+fileName: {{name}}TestWorld.py
 
 ---
 print("BoundedContext: {{name}}");
